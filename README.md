@@ -8,3 +8,6 @@ Here we send each state of India with their respective district and each distric
 with Node js ->  making an api which send the whole data in one go ->with 3 sql queries
 
 With React -> calling the respective state data -> with one query 
+
+#if you got error
+then change {type:QueryTypes.SELECT} to {type:db.QueryTypes.SELECT} // you can replace db to whatever your sequelize name.
