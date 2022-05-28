@@ -10,4 +10,7 @@ with Node js ->  making an api which send the whole data in one go ->with 3 sql 
 With React -> calling the respective state data -> with one query 
 
 # if you got error
-then change {type:QueryTypes.SELECT} to {type:db.QueryTypes.SELECT} // you can replace db to whatever your sequelize name.
+then change {type:QueryTypes.SELECT} to {type:db.QueryTypes.SELECT} // you can replace db to whatever your sequelize name. 
+
+# bugs report
+if you found any bugs, please let me know!!.
